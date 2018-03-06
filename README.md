@@ -14,5 +14,5 @@ Notas:
 
 Se implementa fetch, ECMA6, JQUERY y JS para el manejo de la información así como realizar als peticiones a la API.
 
-![Mockup1](.\assets\images\mockup1.png)
-![Mockup2](.\assets\images\mockup2.png)
+![Mockup1](./assets/images/mockup1.png)
+![Mockup2](./assets/images/mockup2.png)
