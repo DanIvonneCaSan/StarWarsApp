@@ -1,0 +1,54 @@
+body {
+   background-image: url(../assets/images/galaxia.png);
+   background-size: contain;
+}
+
+#imageChar {
+  width: 100%;
+  display: block;
+  padding-left: 10%;
+}
+
+a {
+  font-size: 11px;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+.card-title{
+  text-align: center;
+}
+.title {
+    padding: 4%;
+    text-align: center;
+    width: -webkit-fill-available;
+}
+
+.modal-title{
+  text-align: center;
+  font-size: 40px;
+}
+
+.planets-div {
+  width: 80%;
+  margin: 2% 0 2% 10%;
+}
+
+.section-title{
+  color: white;
+  font-size: 100px;
+  padding-left: 10%;
+  padding-top: 5%;
+}
+.stylePeople {
+  margin-top: 5%;
+  margin-left: 3.5%;
+  display: inline-block;
+}
+
+.vehicles-div{
+  padding-bottom: 10%;
+}
