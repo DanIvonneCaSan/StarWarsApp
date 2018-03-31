@@ -37,3 +37,7 @@ https://swapi.co/api/films/1/?format=json
 3. Al darle click a la URL del personaje se abre un modal con la información de cada uno.
 
 4. En el modal se muestra Nombre, peso, masa, color de pelo y color de piel.
+
+## Desarrollado para: ##
+
+[Laboratoria](http://laboratoria.la)
