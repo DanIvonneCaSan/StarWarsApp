@@ -26,7 +26,7 @@ When the URL of the character is clicked, a modal is displayed with his informat
 
 [Laboratoria](http://laboratoria.la)
 
-# Star Wars Aplicación #
+# Star Wars App #
 
 1. Se incluye la aplicación de SWAPI, donde el acceso a todas las películas se encuentra en el endpoint:
 
