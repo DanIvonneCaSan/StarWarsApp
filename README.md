@@ -1,8 +1,8 @@
 # Star Wars App #
 
-Webpage that shows the movies, characters, planets and ships used in the Star Wars Movies. Implements the SWAPI, API of the saga, data obteined by request and response implementing Fetch.
+Webpage that shows the movies, characters, planets and ships used in the Star Wars Movies. Implements the SWAPI, API of the SAGA, data obteined by request and response implementing Fetch.
 
-Includes SWAPI, where the access to all the EPISODES (movies) is in the endpoint: https://swapi.co/api/films/1/?format=json
+Includes SWAPI, where the access to all the EPISODES (movies) is in the next endpoint: https://swapi.co/api/films/1/?format=json
 
 ![starwars_start](https://user-images.githubusercontent.com/32868919/38158399-e9457312-3450-11e8-8fa4-1a7f6c77c34d.png)
 
@@ -10,7 +10,7 @@ Includes SWAPI, where the access to all the EPISODES (movies) is in the endpoint
 
 ![starwars_vehicles](https://user-images.githubusercontent.com/32868919/38158451-d4d30e02-3451-11e8-92d7-f912031bdde8.png)
 
-When the URL of the character is clicked, a modal is displayed with its information. The Modal window contains the name, weight, mass, hair color and skin color.
+When the URL of the character is clicked, a modal is displayed with his information. The Modal window contains information such as name, weight, mass, hair color and skin color.
 
 ![starwars_characters](https://user-images.githubusercontent.com/32868919/38158452-dad782ba-3451-11e8-8310-f9480b87917f.png)
 
